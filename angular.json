@@ -58,10 +58,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "Health-Challenge-Tracker:build:production"
+              "buildTarget": "Fyle-Health-Tracker:build:production"
             },
             "development": {
-              "buildTarget": "Health-Challenge-Tracker:build:development"
+              "buildTarget": "Fyle-Health-Tracker:build:development"
             }
           },
           "defaultConfiguration": "development"
