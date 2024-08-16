@@ -1,0 +1,24 @@
+.mat-form-container {
+  padding: 16px;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.dialog-actions {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 16px;
+  gap: 8px;
+}
+
+.cancel-button {
+  background: #f44336; /* Material red color */
+  color: #fff;
+}
+
+button[mat-flat-button] {
+  background: #3f51b5; /* Material primary color */
+  color: #fff;
+}
